@@ -1,0 +1,6 @@
+torch==1.5.0
+torchvision==0.6.0
+pybind11
+opencv-python==3.4.9.31
+Pillow
+matplotlib
